@@ -1,0 +1,35 @@
+   
+/* LE H1 C'EST UN SELECTEUR */        
+        h1{/*COLOR C'EST LA PROPRIETE DONT LA VALEUR EST AQUA */color:aqua; 
+           margin: 12px 23px 5px 45px;
+           
+           font-family:'Gill Sans','Gill Sans MT',Calibri,'Trebuchet Ms',Sans-serif;}
+        .OyO{font-style: italic;color: brown;}
+    .OyO{font-style: italic;color: brown;}
+    h1{color:green};
+
+/*exercice du 02 mai */
+
+
+
+
+ 
+/*exercice du 02 mai */
+
+
+
+
+    .grid {
+      display: grid;
+      grid-template-columns: 50% 50%;
+    }
+
+    .bouton {
+      background: red;
+      height: 200px;
+    }
+
+    .texte {
+      background: green;
+      height: 200px;
+    }
