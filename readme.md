@@ -22,3 +22,10 @@ Attention! Si vous ne suivez pas les instructions dans l'ordre, cela ne marchera
 * Créer un fichier script.js (collaborateur 2) = SELF
 * Créer un fichier style.css (collaborateur 3) = J
 * Push et mettre à jour  sur Github et local.
+
+## Addendum 2
+
+* Modifier le fichier index.html
+* Faire une mise a jour en local
+* Modifier les fichiers CSS et JS
+* Mettre à jour et corriger les conflits
